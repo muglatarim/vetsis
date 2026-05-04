@@ -50,6 +50,11 @@ export function AuthProvider({ children }) {
     if (error) throw error
   }
 
+  async function signOut() {
+    await supabase.auth.signOut()
+    setProfile(null)
+  }
+
   const isAdmin = profile?.role === 'super_admin' || profile?.role === 'province_admin'
   const isDistrictAdmin = profile?.role === 'district_admin'
   const isFieldStaff = profile?.role === 'field_staff'
