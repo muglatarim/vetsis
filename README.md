@@ -1,6 +1,6 @@
 # VETSİS - Veteriner Saha Takip Sistemi
 
-> Muğla İl Tarım ve Orman Müdürlüğü için geliştirilmiş, veteriner saha faaliyetlerini ve arı işletmelerini takip eden web tabanlı yönetim sistemi.
+> Muğla İl Tarım ve Orman Müdürlüğü için geliştirilmiş, veteriner saha faaliyetlerini takip eden web tabanlı yönetim sistemi.
 
 ## 🚀 Teknolojiler
 

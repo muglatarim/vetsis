@@ -39,7 +39,7 @@ function AppRoutes() {
 
 export default function App() {
   return (
-    <BrowserRouter basename="/muglatarimmobil/vetsis">
+    <BrowserRouter basename="/vetsis">
       <AuthProvider>
         <AppRoutes />
       </AuthProvider>
