@@ -4,9 +4,9 @@ import { supabase } from '../lib/supabase'
 const AuthContext = createContext(null)
 
 export function AuthProvider({ children }) {
-  const [session, setSession]   = useState(null)
-  const [profile, setProfile]   = useState(null)
-  const [loading, setLoading]   = useState(true)
+  const [session, setSession] = useState(null)
+  const [profile, setProfile] = useState(null)
+  const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     // Mevcut oturumu al
@@ -40,21 +40,19 @@ export function AuthProvider({ children }) {
   }
 
   async function signInWithGoogle() {
+    // Mevcut URL'yi al (GitHub Pages için /vetsis/ dahil)
+    const redirectURL = window.location.origin + window.location.pathname
+
     const { error } = await supabase.auth.signInWithOAuth({
       provider: 'google',
-      options: { redirectTo: window.location.origin }
+      options: { redirectTo: redirectURL }
     })
     if (error) throw error
   }
 
-  async function signOut() {
-    await supabase.auth.signOut()
-    setProfile(null)
-  }
-
-  const isAdmin       = profile?.role === 'super_admin' || profile?.role === 'province_admin'
+  const isAdmin = profile?.role === 'super_admin' || profile?.role === 'province_admin'
   const isDistrictAdmin = profile?.role === 'district_admin'
-  const isFieldStaff  = profile?.role === 'field_staff'
+  const isFieldStaff = profile?.role === 'field_staff'
   const canUploadExcel = profile?.role !== 'field_staff'
 
   return (
