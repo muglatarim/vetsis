@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.ico', 'icons/*.png'],
+      includeAssets: ['vetsis-logo.png'],
       manifest: {
         name: 'VETSİS — Saha Kampanya Yönetimi',
         short_name: 'VETSİS',
@@ -19,8 +19,8 @@ export default defineConfig({
         orientation: 'portrait',
         start_url: '/vetsis/',
         icons: [
-          { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
-          { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }
+          { src: 'vetsis-logo.png', sizes: '192x192', type: 'image/png' },
+          { src: 'vetsis-logo.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }
         ]
       },
       workbox: {

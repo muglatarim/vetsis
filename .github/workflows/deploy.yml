@@ -38,6 +38,12 @@ jobs:
         run: npm ci
 
       - name: Build
+        env:
+          VITE_SUPABASE_URL: "https://ulwntnofjziidvrfqbca.supabase.co"
+          VITE_SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVsd250bm9manppaWR2cmZxYmNhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU3Nzg4MzksImV4cCI6MjA5MTM1NDgzOX0.A3TUgDIJFLw9r02LLoeu7rUh16lxNjtJQWPX_QQVZW4"
+          VITE_HASH_SALT: "VetSis2026!MuglaKampanya#Gizli"
+          VITE_MAPS_BASE_URL: "/vetsis/maps"
+          VITE_DATA_BASE_URL: "/vetsis/data"
         run: npm run build
 
       - name: Setup Pages
