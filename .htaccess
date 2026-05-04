@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /muglatarimmobil/vetsis/
+  
+  # Eğer istek dist/ klasörüne zaten gitmiyorsa ve dosya/dizin mevcut değilse
+  # Her şeyi dist/ klasörüne yönlendir
+  RewriteCond %{REQUEST_URI} !^/muglatarimmobil/vetsis/dist/
+  RewriteRule ^(.*)$ dist/$1 [L]
+
+  # SPA Routing: Eğer yönlendirilen dosya dist içinde yoksa dist/index.html'e dön
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . dist/index.html [L]
+</IfModule>

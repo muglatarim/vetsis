@@ -1,0 +1,2722 @@
+{
+  "eslesmeler": {
+    "AĞAÇÖREN|ABALI": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "ABALI",
+      "eslesmeler": [
+        13039
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|ABDİUŞAĞI": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "ABDİUŞAĞI",
+      "eslesmeler": [
+        13040
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|AVŞAR": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "AVŞAR",
+      "eslesmeler": [
+        13042
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|CAMİLİ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "CAMİLİ",
+      "eslesmeler": [
+        172338
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|CAMİLİ-CUMHURİYET": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "CAMİLİ-CUMHURİYET",
+      "eslesmeler": [
+        172338
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|CAMİLİ-FATİH": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "CAMİLİ-FATİH",
+      "eslesmeler": [
+        172338
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|CAMİLİ-ŞEHİTRASİMBOZKURT": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "CAMİLİ-ŞEHİTRASİMBOZKURT",
+      "eslesmeler": [
+        172338
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|CAMİLİ-YILMAZLAR": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "CAMİLİ-YILMAZLAR",
+      "eslesmeler": [
+        172338
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|ÇATALÇEŞME": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "ÇATALÇEŞME",
+      "eslesmeler": [
+        13044
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|DADILAR": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "DADILAR",
+      "eslesmeler": [
+        13045
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|DEMİRCİLİ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "DEMİRCİLİ",
+      "eslesmeler": [
+        13046
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|ESKİAHURLU": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "ESKİAHURLU",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|GÖLLÜ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "GÖLLÜ",
+      "eslesmeler": [
+        13047
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|GÖYNÜK": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "GÖYNÜK",
+      "eslesmeler": [
+        13048
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|GÜZELÖZ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "GÜZELÖZ",
+      "eslesmeler": [
+        172339
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|HACIİSMAİLLİ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "HACIİSMAİLLİ",
+      "eslesmeler": [
+        13052
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|HADAVUTLU": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "HADAVUTLU",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|HÜSREV": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "HÜSREV",
+      "eslesmeler": [
+        13053
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|İĞDELİYAYLASI": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "İĞDELİYAYLASI",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|KARAPINARYAYLASI": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "KARAPINARYAYLASI",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|KAŞIÇALIKLAR": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "KAŞIÇALIKLAR",
+      "eslesmeler": [
+        13054
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|KEDERLİ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "KEDERLİ",
+      "eslesmeler": [
+        13055
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|KILIÇLI": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "KILIÇLI",
+      "eslesmeler": [
+        13056
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|KIRIMINI": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "KIRIMINI",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|KURTİNİ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "KURTİNİ",
+      "eslesmeler": [
+        13058
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|KÜTÜKLÜ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "KÜTÜKLÜ",
+      "eslesmeler": [
+        13059
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|MERKEZ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "MERKEZ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|MERKEZ-GÜMÜŞTEPE": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "MERKEZ-GÜMÜŞTEPE",
+      "eslesmeler": [
+        13061
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|MERKEZ-KALE": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "MERKEZ-KALE",
+      "eslesmeler": [
+        13062
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|MERKEZ-YENİ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "MERKEZ-YENİ",
+      "eslesmeler": [
+        13063
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|MERKEZ-YURTSEVER": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "MERKEZ-YURTSEVER",
+      "eslesmeler": [
+        13064
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|MERKEZ-ZAFER": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "MERKEZ-ZAFER",
+      "eslesmeler": [
+        13065
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|OYMAAĞAÇ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "OYMAAĞAÇ",
+      "eslesmeler": [
+        13066
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|SARIAĞIL": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "SARIAĞIL",
+      "eslesmeler": [
+        13067
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|SARIHASANLI": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "SARIHASANLI",
+      "eslesmeler": [
+        13068
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|SOFULAR": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "SOFULAR",
+      "eslesmeler": [
+        13069
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|TEPEKÖY": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "TEPEKÖY",
+      "eslesmeler": [
+        13051
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "AĞAÇÖREN|YAĞMURHÜYÜĞÜ": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "YAĞMURHÜYÜĞÜ",
+      "eslesmeler": [
+        13070
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|YENİCE": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "YENİCE",
+      "eslesmeler": [
+        13071
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "AĞAÇÖREN|YENİŞABANLI": {
+      "sistemIlce": "AĞAÇÖREN",
+      "sistemMahalle": "YENİŞABANLI",
+      "eslesmeler": [
+        172122
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|BAŞARAN": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "BAŞARAN",
+      "eslesmeler": [
+        13073
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|BAYRAMDÜĞÜN": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "BAYRAMDÜĞÜN",
+      "eslesmeler": [
+        13074
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|BÜĞET": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "BÜĞET",
+      "eslesmeler": [
+        13075
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|CELİL": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "CELİL",
+      "eslesmeler": [
+        171776
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|ÇUKURYURT": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "ÇUKURYURT",
+      "eslesmeler": [
+        171781
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|EŞMEKAYA": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "EŞMEKAYA",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|EŞMEKAYA-CAMİKEBİR": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "EŞMEKAYA-CAMİKEBİR",
+      "eslesmeler": [
+        132040
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|EŞMEKAYA-KAYACIK": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "EŞMEKAYA-KAYACIK",
+      "eslesmeler": [
+        132041
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|EŞMEKAYA-YENİ": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "EŞMEKAYA-YENİ",
+      "eslesmeler": [
+        132042
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|EŞMEKAYA-YEŞİLYURT": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "EŞMEKAYA-YEŞİLYURT",
+      "eslesmeler": [
+        132043
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|FİLİKÇİ": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "FİLİKÇİ",
+      "eslesmeler": [
+        84529
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|GÜMÜŞDÜĞÜN": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "GÜMÜŞDÜĞÜN",
+      "eslesmeler": [
+        13079
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|GÜNEŞLİ": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "GÜNEŞLİ",
+      "eslesmeler": [
+        13085
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|KATRANCI": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "KATRANCI",
+      "eslesmeler": [
+        13087
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|KÖKEZ": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "KÖKEZ",
+      "eslesmeler": [
+        13088
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ESKİL|MERKEZ-AYDINLIK": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-AYDINLIK",
+      "eslesmeler": [
+        84605,
+        117407
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-CUMHURİYET": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-CUMHURİYET",
+      "eslesmeler": [
+        84605,
+        132031
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-ÇULFA": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-ÇULFA",
+      "eslesmeler": [
+        84605,
+        172157
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-FATİH": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-FATİH",
+      "eslesmeler": [
+        84605,
+        132032
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-FEVZİ ÇAKMAK": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-FEVZİ ÇAKMAK",
+      "eslesmeler": [
+        84605,
+        132033
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-HÜRRİYET": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-HÜRRİYET",
+      "eslesmeler": [
+        84605,
+        132034
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-İSTİKLAL": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-İSTİKLAL",
+      "eslesmeler": [
+        84605,
+        132035
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-KARŞIYAKA": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-KARŞIYAKA",
+      "eslesmeler": [
+        84605,
+        132036
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-MERKEZ": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-MERKEZ",
+      "eslesmeler": [
+        84605
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-MİMARSİNAN": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-MİMARSİNAN",
+      "eslesmeler": [
+        84605
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-MURATLI": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-MURATLI",
+      "eslesmeler": [
+        84605
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-YAVUZ SULTAN SELİM": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-YAVUZ SULTAN SELİM",
+      "eslesmeler": [
+        84605,
+        172158
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-YILDIRIM": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-YILDIRIM",
+      "eslesmeler": [
+        84605,
+        132038
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|MERKEZ-ZAFER": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "MERKEZ-ZAFER",
+      "eslesmeler": [
+        84605,
+        132039
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ESKİL|SAĞSAK": {
+      "sistemIlce": "ESKİL",
+      "sistemMahalle": "SAĞSAK",
+      "eslesmeler": [
+        13090
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|AKMEZAR": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "AKMEZAR",
+      "eslesmeler": [
+        13091
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|BEKARLAR": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "BEKARLAR",
+      "eslesmeler": [
+        13092
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|CAMİLİÖREN": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "CAMİLİÖREN",
+      "eslesmeler": [
+        13093
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|ÇATALSU": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "ÇATALSU",
+      "eslesmeler": [
+        13094
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|DEMİRCİ": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "DEMİRCİ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|GÜLPINAR": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "GÜLPINAR",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|KIZILKAYA": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "KIZILKAYA",
+      "eslesmeler": [
+        13099
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|MERKEZ": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "MERKEZ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|MERKEZ-ATATÜRK": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "MERKEZ-ATATÜRK",
+      "eslesmeler": [
+        13100
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|MERKEZ-FATİH": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "MERKEZ-FATİH",
+      "eslesmeler": [
+        13101,
+        132056
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|MERKEZ-HÜRRİYET": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "MERKEZ-HÜRRİYET",
+      "eslesmeler": [
+        13103
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|MERKEZ-İSTİKLAL": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "MERKEZ-İSTİKLAL",
+      "eslesmeler": [
+        13104,
+        132058
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|MERKEZ-MEYDAN": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "MERKEZ-MEYDAN",
+      "eslesmeler": [
+        13105,
+        132060
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|MERKEZ-YENİMAHALLE": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "MERKEZ-YENİMAHALLE",
+      "eslesmeler": [
+        132044
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|OSMANLI": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "OSMANLI",
+      "eslesmeler": [
+        13097
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|PINARBAŞI": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "PINARBAŞI",
+      "eslesmeler": [
+        13106,
+        132057
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|SARATLI": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "SARATLI",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|SARATLI-CUMHURİYET": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "SARATLI-CUMHURİYET",
+      "eslesmeler": [
+        13095,
+        132053
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜLAĞAÇ|SOFULAR": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "SOFULAR",
+      "eslesmeler": [
+        13108
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜLAĞAÇ|SÜLEYMANHÜYÜĞÜ": {
+      "sistemIlce": "GÜLAĞAÇ",
+      "sistemMahalle": "SÜLEYMANHÜYÜĞÜ",
+      "eslesmeler": [
+        13109
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|AKYAMAÇ": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "AKYAMAÇ",
+      "eslesmeler": [
+        13116
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|ALANYURT": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "ALANYURT",
+      "eslesmeler": [
+        13110
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|BELİSIRMA": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "BELİSIRMA",
+      "eslesmeler": [
+        13111
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|BOZCAYURT": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "BOZCAYURT",
+      "eslesmeler": [
+        13112
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|GAZİEMİR": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "GAZİEMİR",
+      "eslesmeler": [
+        13113
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|IHLARA": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "IHLARA",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|IHLARA-AKPINAR": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "IHLARA-AKPINAR",
+      "eslesmeler": [
+        132066
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|IHLARA-HARMANLIK": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "IHLARA-HARMANLIK",
+      "eslesmeler": [
+        132067
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|IHLARA-KARŞIYAKA": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "IHLARA-KARŞIYAKA",
+      "eslesmeler": [
+        132068
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|IHLARA-KAYAARDI": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "IHLARA-KAYAARDI",
+      "eslesmeler": [
+        132069
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|ILISU": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "ILISU",
+      "eslesmeler": [
+        13115
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|MERKEZ": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "MERKEZ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|MERKEZ-AŞAĞIMAHALLE": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "MERKEZ-AŞAĞIMAHALLE",
+      "eslesmeler": [
+        132065
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|MERKEZ-YENİMAHALLE": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "MERKEZ-YENİMAHALLE",
+      "eslesmeler": [
+        13118,
+        132074
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|MERKEZ-YUKARIMAHALLE": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "MERKEZ-YUKARIMAHALLE",
+      "eslesmeler": [
+        13119
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|SELİME": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "SELİME",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|SELİME-KAYAARDI": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "SELİME-KAYAARDI",
+      "eslesmeler": [
+        132069
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|SELİME-KÖPRÜBAŞI": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "SELİME-KÖPRÜBAŞI",
+      "eslesmeler": [
+        132073
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|SELİME-YENİMAHALLE": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "SELİME-YENİMAHALLE",
+      "eslesmeler": [
+        13118,
+        132074
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "GÜZELYURT|SİVRİHİSAR": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "SİVRİHİSAR",
+      "eslesmeler": [
+        13121
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|UZUNKAYA": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "UZUNKAYA",
+      "eslesmeler": [
+        13122
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "GÜZELYURT|YAPRAKHİSAR": {
+      "sistemIlce": "GÜZELYURT",
+      "sistemMahalle": "YAPRAKHİSAR",
+      "eslesmeler": [
+        13123
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ACIPINAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ACIPINAR",
+      "eslesmeler": [
+        13124
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|AĞZIKARAHAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "AĞZIKARAHAN",
+      "eslesmeler": [
+        13138
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|AKÇAKENT": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "AKÇAKENT",
+      "eslesmeler": [
+        13243
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|AKHİSAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "AKHİSAR",
+      "eslesmeler": [
+        13139
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|AKİN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "AKİN",
+      "eslesmeler": [
+        13140
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ALAYHANI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ALAYHANI",
+      "eslesmeler": [
+        13141
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ALTINKAYA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ALTINKAYA",
+      "eslesmeler": [
+        13125
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ARATOL-BAHÇELİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ARATOL-BAHÇELİ",
+      "eslesmeler": [
+        13178
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|ARATOL-İSTİKLAL": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ARATOL-İSTİKLAL",
+      "eslesmeler": [
+        13195,
+        132020
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|ARMUTLU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ARMUTLU",
+      "eslesmeler": [
+        13244
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ATAKÖY": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ATAKÖY",
+      "eslesmeler": [
+        13142
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BABAKONAĞI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BABAKONAĞI",
+      "eslesmeler": [
+        13143
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BAĞLI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BAĞLI",
+      "eslesmeler": [
+        13144
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BAĞLIKAYA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BAĞLIKAYA",
+      "eslesmeler": [
+        13144
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|BAYINDIR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BAYINDIR",
+      "eslesmeler": [
+        13146
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BAYMIŞ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BAYMIŞ",
+      "eslesmeler": [
+        13126
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BEBEK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BEBEK",
+      "eslesmeler": [
+        13147
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BORUCU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BORUCU",
+      "eslesmeler": [
+        13148
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BOSTANLIK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BOSTANLIK",
+      "eslesmeler": [
+        13127
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BOYALI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BOYALI",
+      "eslesmeler": [
+        13128
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BOZCATEPE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BOZCATEPE",
+      "eslesmeler": [
+        13149
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BÜYÜKGÜVE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BÜYÜKGÜVE",
+      "eslesmeler": [
+        13129
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|BÜYÜKPÖRNEKLER": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "BÜYÜKPÖRNEKLER",
+      "eslesmeler": [
+        13150
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|CANKILLI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "CANKILLI",
+      "eslesmeler": [
+        13152
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|CERAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "CERAN",
+      "eslesmeler": [
+        13223
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|CERİT": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "CERİT",
+      "eslesmeler": [
+        171273
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ÇAĞLAYAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ÇAĞLAYAN",
+      "eslesmeler": [
+        13151
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ÇAVDARLILAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ÇAVDARLILAR",
+      "eslesmeler": [
+        13130
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ÇEKİÇLER": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ÇEKİÇLER",
+      "eslesmeler": [
+        13153
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ÇELTEK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ÇELTEK",
+      "eslesmeler": [
+        13154
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ÇİMELİYENİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ÇİMELİYENİ",
+      "eslesmeler": [
+        13155
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ÇOLAKNEBİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ÇOLAKNEBİ",
+      "eslesmeler": [
+        13131
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|DARIHÜYÜK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "DARIHÜYÜK",
+      "eslesmeler": [
+        13255
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|DİKMEN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "DİKMEN",
+      "eslesmeler": [
+        13245
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|DOĞANTARLA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "DOĞANTARLA",
+      "eslesmeler": [
+        13156
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|EKECİKGÖDELER": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "EKECİKGÖDELER",
+      "eslesmeler": [
+        13157
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|EKECİKTOL": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "EKECİKTOL",
+      "eslesmeler": [
+        13158
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|EKECİKYENİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "EKECİKYENİ",
+      "eslesmeler": [
+        13159
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ELMACIK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ELMACIK",
+      "eslesmeler": [
+        13246
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|FATMAUŞAĞI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "FATMAUŞAĞI",
+      "eslesmeler": [
+        13132
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|GENÇOSMAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "GENÇOSMAN",
+      "eslesmeler": [
+        13160
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|GÖKÇE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "GÖKÇE",
+      "eslesmeler": [
+        13161
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|GÖKSÜGÜZEL": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "GÖKSÜGÜZEL",
+      "eslesmeler": [
+        13162
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|GÖZLÜKUYU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "GÖZLÜKUYU",
+      "eslesmeler": [
+        13247
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|GÜCÜNKAYA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "GÜCÜNKAYA",
+      "eslesmeler": [
+        13163
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|GÜLTEPE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "GÜLTEPE",
+      "eslesmeler": [
+        13164
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|HAMİDİYE-BAHÇESARAY": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "HAMİDİYE-BAHÇESARAY",
+      "eslesmeler": [
+        13179,
+        13192
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|HAMİDİYE-KIRIMLI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "HAMİDİYE-KIRIMLI",
+      "eslesmeler": [
+        13192,
+        131980
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|HANOBASI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "HANOBASI",
+      "eslesmeler": [
+        171274
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|HATİPOĞLUTOLU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "HATİPOĞLUTOLU",
+      "eslesmeler": [
+        13165
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|HELVADERE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "HELVADERE",
+      "eslesmeler": [
+        13187
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|HIRKATOL": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "HIRKATOL",
+      "eslesmeler": [
+        13166
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|İNCESU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "İNCESU",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|İSMAİLAĞATOLU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "İSMAİLAĞATOLU",
+      "eslesmeler": [
+        13167
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KALEBALTA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KALEBALTA",
+      "eslesmeler": [
+        13168
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KARACAÖREN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KARACAÖREN",
+      "eslesmeler": [
+        13250
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KARAÇAYIR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KARAÇAYIR",
+      "eslesmeler": [
+        13169
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KARAKOVA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KARAKOVA",
+      "eslesmeler": [
+        13170
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KARAKUYU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KARAKUYU",
+      "eslesmeler": [
+        13171
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KARAÖREN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KARAÖREN",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|KARATAŞ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KARATAŞ",
+      "eslesmeler": [
+        13173
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KARKIN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KARKIN",
+      "eslesmeler": [
+        13251
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KAZICIKTOL": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KAZICIKTOL",
+      "eslesmeler": [
+        13174
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|KOÇPINAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KOÇPINAR",
+      "eslesmeler": [
+        13252
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KOYAK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KOYAK",
+      "eslesmeler": [
+        13175
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KUTLU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KUTLU",
+      "eslesmeler": [
+        13177
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KÜÇÜKGÜVE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KÜÇÜKGÜVE",
+      "eslesmeler": [
+        13133
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|KÜÇÜKPÖRNEKLER": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "KÜÇÜKPÖRNEKLER",
+      "eslesmeler": [
+        13176
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|MACARLI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MACARLI",
+      "eslesmeler": [
+        13134
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|MERKEZ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-BAHÇELİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-BAHÇELİ",
+      "eslesmeler": [
+        13178
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-BEDİRMUHTAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-BEDİRMUHTAR",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-BÜYÜKBÖLCEK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-BÜYÜKBÖLCEK",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-BÜYÜKKERGİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-BÜYÜKKERGİ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-COĞLAKİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-COĞLAKİ",
+      "eslesmeler": [
+        13185
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-CUMHURİYET": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-CUMHURİYET",
+      "eslesmeler": [
+        13186,
+        132010
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-ÇİFTLİK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-ÇİFTLİK",
+      "eslesmeler": [
+        13184
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-FATİH": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-FATİH",
+      "eslesmeler": [
+        12159,
+        96239,
+        96249,
+        96252,
+        96264,
+        96268
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-HACILARHARMANI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-HACILARHARMANI",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-HAMİDİYE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-HAMİDİYE",
+      "eslesmeler": [
+        13192
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-HASAS": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-HASAS",
+      "eslesmeler": [
+        13193
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-HÜRRİYET": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-HÜRRİYET",
+      "eslesmeler": [
+        13194,
+        132025
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-KALANLAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-KALANLAR",
+      "eslesmeler": [
+        13196
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-KILIÇASLAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-KILIÇASLAN",
+      "eslesmeler": [
+        13197
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-KURTULUŞ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-KURTULUŞ",
+      "eslesmeler": [
+        13199,
+        126969
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-KÜÇÜKBÖLCEK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-KÜÇÜKBÖLCEK",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-KÜÇÜKKERGİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-KÜÇÜKKERGİ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-LALELİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-LALELİ",
+      "eslesmeler": [
+        13200
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-MEHMETAKİFERSOY": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-MEHMETAKİFERSOY",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-NAKKAŞ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-NAKKAŞ",
+      "eslesmeler": [
+        13205
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-PAŞACIK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-PAŞACIK",
+      "eslesmeler": [
+        13207
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-SELÇUKLU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-SELÇUKLU",
+      "eslesmeler": [
+        13210
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-SOMUNCUBABA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-SOMUNCUBABA",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-ŞİFAHANE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-ŞİFAHANE",
+      "eslesmeler": [
+        13212
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-TACİN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-TACİN",
+      "eslesmeler": [
+        13215
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-TAŞPAZAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-TAŞPAZAR",
+      "eslesmeler": [
+        13216
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-YAVUZSULTANSELİM": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-YAVUZSULTANSELİM",
+      "eslesmeler": [
+        132019
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-YENİMAHALLE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-YENİMAHALLE",
+      "eslesmeler": [
+        13218,
+        131976,
+        131984
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-YENİSANAYİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-YENİSANAYİ",
+      "eslesmeler": [
+        13219
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|MERKEZ-YUNUS EMRE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "MERKEZ-YUNUS EMRE",
+      "eslesmeler": [
+        13220
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|NURGÖZ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "NURGÖZ",
+      "eslesmeler": [
+        13135
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|SAĞLIK": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SAĞLIK",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|SAĞLIK-DİVANOĞLU": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SAĞLIK-DİVANOĞLU",
+      "eslesmeler": [
+        127441
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|SALMANLI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SALMANLI",
+      "eslesmeler": [
+        13225
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|SAPMAZ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SAPMAZ",
+      "eslesmeler": [
+        13136
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|SARAYHAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SARAYHAN",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|SARIAĞIL": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SARIAĞIL",
+      "eslesmeler": [
+        13226
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|SELECİKÖSE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SELECİKÖSE",
+      "eslesmeler": [
+        13227
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|SEVİNÇLİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SEVİNÇLİ",
+      "eslesmeler": [
+        13228
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|SUSADI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "SUSADI",
+      "eslesmeler": [
+        13230
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|ŞEYHLER": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ŞEYHLER",
+      "eslesmeler": [
+        13229
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|TAPTUK EMRE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "TAPTUK EMRE",
+      "eslesmeler": [
+        13231
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|TAŞPINAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "TAŞPINAR",
+      "eslesmeler": [
+        13208
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|TATLICA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "TATLICA",
+      "eslesmeler": [
+        13232
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|TOPAKKAYA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "TOPAKKAYA",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|ULUKIŞLA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ULUKIŞLA",
+      "eslesmeler": [
+        13234
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|ULUKIŞLATOL": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "ULUKIŞLATOL",
+      "eslesmeler": [
+        13234
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|YAĞAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YAĞAN",
+      "eslesmeler": [
+        13235
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|YALMAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YALMAN",
+      "eslesmeler": [
+        13236
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|YALNIZCEVİZ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YALNIZCEVİZ",
+      "eslesmeler": [
+        13237
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|YANYURT": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YANYURT",
+      "eslesmeler": [
+        13238
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|YAPILCAN": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YAPILCAN",
+      "eslesmeler": [
+        13239
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|YENİKENT": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YENİKENT",
+      "eslesmeler": [
+        132006
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|YENİPINAR": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YENİPINAR",
+      "eslesmeler": [
+        13254
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "MERKEZ|YEŞİLOVA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YEŞİLOVA",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|YEŞİLOVA-ALASAKALLI": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YEŞİLOVA-ALASAKALLI",
+      "eslesmeler": [
+        13258
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|YEŞİLOVA-KÖSELİ": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YEŞİLOVA-KÖSELİ",
+      "eslesmeler": [
+        13259
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|YEŞİLTEPE": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YEŞİLTEPE",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "MERKEZ|YUVA": {
+      "sistemIlce": "MERKEZ",
+      "sistemMahalle": "YUVA",
+      "eslesmeler": [
+        13240
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|AKPINAR": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "AKPINAR",
+      "eslesmeler": [
+        13274
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|BALCI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "BALCI",
+      "eslesmeler": [
+        172310
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|BOZKIR": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "BOZKIR",
+      "eslesmeler": [
+        13275
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|CAMUZLUK": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "CAMUZLUK",
+      "eslesmeler": [
+        13276
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|CECELİ": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "CECELİ",
+      "eslesmeler": [
+        13264
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|CUMALI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "CUMALI",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|ÇATİN": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "ÇATİN",
+      "eslesmeler": [
+        13263
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|ÇİFTEVİ": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "ÇİFTEVİ",
+      "eslesmeler": [
+        13277
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|DEVEDAMI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "DEVEDAMI",
+      "eslesmeler": [
+        13278
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|DURHASANLI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "DURHASANLI",
+      "eslesmeler": [
+        13266
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|GÖDELER": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "GÖDELER",
+      "eslesmeler": [
+        13271
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|GÖKLER": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "GÖKLER",
+      "eslesmeler": [
+        13279
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|HACIİBRAHİMUŞAĞI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "HACIİBRAHİMUŞAĞI",
+      "eslesmeler": [
+        13280
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|HACIMAHMUTUŞAĞI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "HACIMAHMUTUŞAĞI",
+      "eslesmeler": [
+        13281
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|HARMANDALI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "HARMANDALI",
+      "eslesmeler": [
+        13282
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|HIDIRLI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "HIDIRLI",
+      "eslesmeler": [
+        13283
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|HOCABEYLİ": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "HOCABEYLİ",
+      "eslesmeler": [
+        13284
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|İSHAKLIKARAPINAR": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "İSHAKLIKARAPINAR",
+      "eslesmeler": [
+        13285
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|KÜMBET": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "KÜMBET",
+      "eslesmeler": [
+        13267
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|MERKEZ": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-ÇANKAYA": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-ÇANKAYA",
+      "eslesmeler": [
+        13286
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-ESENTEPE": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-ESENTEPE",
+      "eslesmeler": [
+        13287
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-FATİH": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-FATİH",
+      "eslesmeler": [
+        13288
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-İSTİKLAL": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-İSTİKLAL",
+      "eslesmeler": [
+        13289
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-KARŞIMAHALLE": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-KARŞIMAHALLE",
+      "eslesmeler": [
+        13290,
+        132089
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-KIZILAY": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-KIZILAY",
+      "eslesmeler": [
+        13291
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-MALTEPE": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-MALTEPE",
+      "eslesmeler": [
+        13292
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-MEHMETAKİF": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-MEHMETAKİF",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-PLEVNE": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-PLEVNE",
+      "eslesmeler": [
+        13295
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-YENİMAHALLE": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-YENİMAHALLE",
+      "eslesmeler": [
+        13296
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|MERKEZ-ZAFER": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "MERKEZ-ZAFER",
+      "eslesmeler": [
+        13297
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|NAMLIKIŞLA": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "NAMLIKIŞLA",
+      "eslesmeler": [
+        13298
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|OĞUZLAR": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "OĞUZLAR",
+      "eslesmeler": [
+        13299
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|OZANCIK": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "OZANCIK",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|PINARBAŞI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "PINARBAŞI",
+      "eslesmeler": [
+        13300
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|PİRLİ": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "PİRLİ",
+      "eslesmeler": [
+        13269
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|REŞADİYE": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "REŞADİYE",
+      "eslesmeler": [
+        13270
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|SALARIALACA": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "SALARIALACA",
+      "eslesmeler": [
+        13301
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|SARIKARAMAN": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "SARIKARAMAN",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|SATANSARI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "SATANSARI",
+      "eslesmeler": [
+        13273
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|SEKSENUŞAĞI": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "SEKSENUŞAĞI",
+      "eslesmeler": [
+        13302
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "ORTAKÖY|SİNANDIGÖKKAYA": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "SİNANDIGÖKKAYA",
+      "eslesmeler": [
+        13303
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "ORTAKÖY|YILDIRIMLAR": {
+      "sistemIlce": "ORTAKÖY",
+      "sistemMahalle": "YILDIRIMLAR",
+      "eslesmeler": [
+        13304
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SARIYAHŞİ|BEKDİK": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "BEKDİK",
+      "eslesmeler": [
+        13305
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SARIYAHŞİ|BOĞAZKÖY": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "BOĞAZKÖY",
+      "eslesmeler": [
+        13306
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SARIYAHŞİ|DEMİRCİOBASI": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "DEMİRCİOBASI",
+      "eslesmeler": [
+        13307
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SARIYAHŞİ|MERKEZ": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "MERKEZ",
+      "eslesmeler": [],
+      "eslesmeTuru": "eslesmedi",
+      "manuelOnaylandi": false
+    },
+    "SARIYAHŞİ|MERKEZ-FATİH": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "MERKEZ-FATİH",
+      "eslesmeler": [
+        13308
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "SARIYAHŞİ|MERKEZ-KARŞIYAKA": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "MERKEZ-KARŞIYAKA",
+      "eslesmeler": [
+        13309
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "SARIYAHŞİ|MERKEZ-KIZILIRMAK": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "MERKEZ-KIZILIRMAK",
+      "eslesmeler": [
+        13310
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "SARIYAHŞİ|MERKEZ-KURTULUŞ": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "MERKEZ-KURTULUŞ",
+      "eslesmeler": [
+        13311
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "SARIYAHŞİ|MERKEZ-ÖZAL": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "MERKEZ-ÖZAL",
+      "eslesmeler": [
+        13312
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "SARIYAHŞİ|MERKEZ-ŞAFAKTEPE": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "MERKEZ-ŞAFAKTEPE",
+      "eslesmeler": [
+        13313
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "SARIYAHŞİ|MERKEZ-YENİDOĞAN": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "MERKEZ-YENİDOĞAN",
+      "eslesmeler": [
+        13314
+      ],
+      "eslesmeTuru": "otomatik",
+      "manuelOnaylandi": false
+    },
+    "SARIYAHŞİ|SİPAHİLER": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "SİPAHİLER",
+      "eslesmeler": [
+        13315
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SARIYAHŞİ|YAYLAK": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "YAYLAK",
+      "eslesmeler": [
+        13316
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SARIYAHŞİ|YENİTORUNOBASI": {
+      "sistemIlce": "SARIYAHŞİ",
+      "sistemMahalle": "YENİTORUNOBASI",
+      "eslesmeler": [
+        13317
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SULTANHANI|CUMHURİYET": {
+      "sistemIlce": "SULTANHANI",
+      "sistemMahalle": "CUMHURİYET",
+      "eslesmeler": [
+        60400
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SULTANHANI|GAZİ": {
+      "sistemIlce": "SULTANHANI",
+      "sistemMahalle": "GAZİ",
+      "eslesmeler": [
+        59911
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SULTANHANI|İSTİKAMET": {
+      "sistemIlce": "SULTANHANI",
+      "sistemMahalle": "İSTİKAMET",
+      "eslesmeler": [
+        59883
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SULTANHANI|KOYUNCU": {
+      "sistemIlce": "SULTANHANI",
+      "sistemMahalle": "KOYUNCU",
+      "eslesmeler": [
+        59866
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SULTANHANI|SELÇUK": {
+      "sistemIlce": "SULTANHANI",
+      "sistemMahalle": "SELÇUK",
+      "eslesmeler": [
+        59910
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SULTANHANI|TÜRKİSTAN": {
+      "sistemIlce": "SULTANHANI",
+      "sistemMahalle": "TÜRKİSTAN",
+      "eslesmeler": [
+        60392
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SULTANHANI|YEŞİLTÖMEK": {
+      "sistemIlce": "SULTANHANI",
+      "sistemMahalle": "YEŞİLTÖMEK",
+      "eslesmeler": [
+        13242
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    },
+    "SULTANHANI|ZAFER": {
+      "sistemIlce": "SULTANHANI",
+      "sistemMahalle": "ZAFER",
+      "eslesmeler": [
+        60565
+      ],
+      "eslesmeTuru": "birebir",
+      "manuelOnaylandi": true
+    }
+  },
+  "geoEslesmeyenler": [],
+  "metaveriler": {
+    "guncellemeTarihi": "2026-04-07T12:21:40.180Z"
+  }
+}
